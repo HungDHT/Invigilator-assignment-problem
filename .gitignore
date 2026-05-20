@@ -1,0 +1,25 @@
+# Generated outputs (re-created by running the pipeline)
+iap_data.json
+solution.csv
+solver_log.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Optional: uncomment if you decide not to commit the dataset
+# Dataset_Anonymized_*.csv
