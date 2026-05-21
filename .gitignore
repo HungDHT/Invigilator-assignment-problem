@@ -23,3 +23,5 @@ Thumbs.db
 
 # Optional: uncomment if you decide not to commit the dataset
 # Dataset_Anonymized_*.csv
+
+figs/
