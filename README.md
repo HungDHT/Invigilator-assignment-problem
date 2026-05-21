@@ -55,7 +55,7 @@ python solver.py         # creates solution.csv + solver_log.json
 ├── solver.py                          Phase 3 ILP solver
 ├── Phase_1_Mathematical_Modeling.md   Phase 1 report (model spec)
 ├── Phase_2_Data_Preprocessing.md      Phase 2 report
-└── Dataset_Anonymized_..._.csv        Input dataset (anonymized)
+└── Dataset_Anonymized_Invigilator_Assignment_Problem.csv        Input dataset (anonymized)
 ```
 
 Generated files (`iap_data.json`, `solution.csv`, `solver_log.json`) are produced at runtime and are listed in `.gitignore`.
